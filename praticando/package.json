@@ -1,0 +1,16 @@
+{
+  "name": "atividade-g2-4am",
+  "version": "1.0.0",
+  "description": "",
+  "main": "atv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
