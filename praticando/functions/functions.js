@@ -13,7 +13,7 @@ function print(mensagem){
 }
 
 function getPositiveNumber(numero){
-    if (numero > 0){
+    if (numero >= 0){
         return
     }else {
         throw new Error('Apenas valores positivos')
